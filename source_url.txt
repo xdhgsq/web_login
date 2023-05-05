@@ -1,0 +1,556 @@
+
+                    <option value="" selected="">跳至...</option>
+                    <option value="/mod/forum/view.php?id=705059&amp;forceview=1">新闻讨论区</option>
+                    <option value="/mod/page/view.php?id=712408&amp;forceview=1">课程简介</option>
+                    <option value="/mod/page/view.php?id=712409&amp;forceview=1">课程大纲</option>
+                    <option value="/mod/page/view.php?id=712410&amp;forceview=1">考核方式</option>
+                    <option value="/mod/page/view.php?id=712411&amp;forceview=1">学习指引</option>
+                    <option value="/mod/page/view.php?id=712412&amp;forceview=1">教学建议（致辅导教师）</option>
+                    <option value="/mod/kalvidres/view.php?id=712414&amp;forceview=1">Unit 1-彭丹逵老师-1. 什么是文化</option>
+                    <option value="/mod/kalvidres/view.php?id=712415&amp;forceview=1">Unit 1-彭丹逵老师-2. 什么是交际</option>
+                    <option value="/mod/kalvidres/view.php?id=712416&amp;forceview=1">Unit 1-彭丹逵老师-3. 什么是跨文化交际</option>
+                    <option value="/mod/kalvidres/view.php?id=712417&amp;forceview=1">Unit 1-彭丹逵老师-4. 为什么要学习跨文化交际和跨文化商务沟通</option>
+                    <option value="/mod/resource/view.php?id=712418&amp;forceview=1">讲义：第1单元（含思考题）</option>
+                    <option value="/mod/forum/view.php?id=712419&amp;forceview=1">实时讨论（课程学习指引）【3月23日（周四）20:00-21:00】</option>
+                    <option value="/mod/folder/view.php?id=712421&amp;forceview=1">第一章 引论</option>
+                    <option value="/mod/folder/view.php?id=712422&amp;forceview=1">什么是文化？——定义、分类与特征</option>
+                    <option value="/mod/resource/view.php?id=712423&amp;forceview=1">1. 理论阐释-高语境文化和低语境文化</option>
+                    <option value="/mod/resource/view.php?id=712424&amp;forceview=1">2.中国公司如何赢得阿拉伯客户</option>
+                    <option value="/mod/resource/view.php?id=712425&amp;forceview=1">3. 沟通问题给詹姆斯•沃伦带来的困扰</option>
+                    <option value="/mod/resource/view.php?id=712426&amp;forceview=1">4. 双语商标</option>
+                    <option value="/mod/resource/view.php?id=712427&amp;forceview=1">5. 坦率而言，还是含蓄不语？</option>
+                    <option value="/mod/resource/view.php?id=712428&amp;forceview=1">6. 美式的好客，还是法式的盛情？</option>
+                    <option value="/mod/kalvidres/view.php?id=712431&amp;forceview=1">Unit 2-高辉美老师-2. 身体语言（一）</option>
+                    <option value="/mod/kalvidres/view.php?id=712432&amp;forceview=1">Unit 2-高辉美老师-3. 身体语言（二）</option>
+                    <option value="/mod/kalvidres/view.php?id=712433&amp;forceview=1">Unit 2-高辉美老师-4. 时间语言和空间语言</option>
+                    <option value="/mod/resource/view.php?id=712434&amp;forceview=1">讲义：第2单元（含思考题及考核提示）</option>
+                    <option value="/mod/folder/view.php?id=712437&amp;forceview=1">第十四章 身势语——非言语交际</option>
+                    <option value="/mod/folder/view.php?id=712438&amp;forceview=1">非言语交际与文化</option>
+                    <option value="/mod/kalvidres/view.php?id=712439&amp;forceview=1">Learning English with Misterduncan—Body Language</option>
+                    <option value="/mod/kalvidres/view.php?id=712440&amp;forceview=1">解密体态语</option>
+                    <option value="/mod/resource/view.php?id=712441&amp;forceview=1">你的举动出卖了你的心：解密体态语</option>
+                    <option value="/mod/resource/view.php?id=712442&amp;forceview=1">中国人的性格：漠视时间</option>
+                    <option value="/mod/resource/view.php?id=712443&amp;forceview=1">1. 怎样理解微笑？</option>
+                    <option value="/mod/resource/view.php?id=712444&amp;forceview=1">2. 东京纸巾和布手帕</option>
+                    <option value="/mod/resource/view.php?id=712445&amp;forceview=1">3. 单时制的美国人和多时制的墨西哥人</option>
+                    <option value="/mod/resource/view.php?id=712446&amp;forceview=1">4. 多元文化团队开会的插曲</option>
+                    <option value="/mod/kalvidres/view.php?id=712448&amp;forceview=1">Unit 3-陈颖老师-1. 英汉语言中词汇的语义差别</option>
+                    <option value="/mod/kalvidres/view.php?id=712449&amp;forceview=1">Unit 3-陈颖老师-2. 词的涵义—外延与内涵</option>
+                    <option value="/mod/kalvidres/view.php?id=712450&amp;forceview=1">Unit 3-陈颖老师-3. 关于动物词的比喻和联想</option>
+                    <option value="/mod/kalvidres/view.php?id=712451&amp;forceview=1">Unit 3-陈颖老师-4. 关于数字的涵义比较</option>
+                    <option value="/mod/resource/view.php?id=712452&amp;forceview=1">讲义：第3单元（含思考题及考核提示）</option>
+                    <option value="/mod/folder/view.php?id=712455&amp;forceview=1">第二章 论词：是同义，是相似，还是貌合神离？  </option>
+                    <option value="/mod/folder/view.php?id=712456&amp;forceview=1">第三章  再论词：文化差别和词的涵义</option>
+                    <option value="/mod/folder/view.php?id=712457&amp;forceview=1">第六章  比喻和联想</option>
+                    <option value="/mod/resource/view.php?id=712458&amp;forceview=1">宝洁在日本的帮宝适广告失策</option>
+                    <option value="/mod/kalvidres/view.php?id=712460&amp;forceview=1">Unit 4-陈颖老师-1. 颜色词的联想意义</option>
+                    <option value="/mod/kalvidres/view.php?id=712461&amp;forceview=1">Unit 4-陈颖老师-2. 英汉文化中的习语与谚语</option>
+                    <option value="/mod/kalvidres/view.php?id=712462&amp;forceview=1">Unit 4-陈颖老师-3. 典故</option>
+                    <option value="/mod/resource/view.php?id=712463&amp;forceview=1">讲义：第4单元（含思考题及考核提示）</option>
+                    <option value="/mod/folder/view.php?id=712467&amp;forceview=1">第七章  颜色在语言中的运用——再谈比喻和联想</option>
+                    <option value="/mod/folder/view.php?id=712468&amp;forceview=1"> 第五章  成语、谚语和格言</option>
+                    <option value="/mod/folder/view.php?id=712469&amp;forceview=1">第八章  典故</option>
+                    <option value="/mod/kalvidres/view.php?id=712470&amp;forceview=1">Learning English with Misterduncan—English Idioms</option>
+                    <option value="/mod/kalvidres/view.php?id=712471&amp;forceview=1">中华民俗大观——中国谚语</option>
+                    <option value="/mod/resource/view.php?id=712472&amp;forceview=1">几个英语词语的小典故</option>
+                    <option value="/mod/resource/view.php?id=712473&amp;forceview=1">第三只手？</option>
+                    <option value="/mod/kalvidres/view.php?id=712475&amp;forceview=1">Unit 5-彭丹逵老师-1.见面礼仪</option>
+                    <option value="/mod/kalvidres/view.php?id=712476&amp;forceview=1">Unit 5-彭丹逵老师-2.宴请礼仪</option>
+                    <option value="/mod/kalvidres/view.php?id=712477&amp;forceview=1">Unit 5-彭丹逵老师-3.礼物的那些事</option>
+                    <option value="/mod/kalvidres/view.php?id=712478&amp;forceview=1">Unit 5-彭丹逵老师-4.迷信与禁忌</option>
+                    <option value="/mod/resource/view.php?id=712479&amp;forceview=1">讲义：第5单元（含思考题及考核提示） </option>
+                    <option value="/mod/folder/view.php?id=712482&amp;forceview=1">第四章  日常谈话中的文化差别</option>
+                    <option value="/mod/folder/view.php?id=712483&amp;forceview=1">第九章  委婉语</option>
+                    <option value="/mod/folder/view.php?id=712484&amp;forceview=1">第十章  禁忌语</option>
+                    <option value="/mod/folder/view.php?id=712485&amp;forceview=1">第十一章  敬辞和谦辞</option>
+                    <option value="/mod/folder/view.php?id=712486&amp;forceview=1">日常社交习俗——姓名+称谓</option>
+                    <option value="/mod/folder/view.php?id=712487&amp;forceview=1">日常社交习俗——问候、介绍、告别</option>
+                    <option value="/mod/folder/view.php?id=712488&amp;forceview=1">日常社交习俗——约会、邀请及回复</option>
+                    <option value="/mod/folder/view.php?id=712489&amp;forceview=1">日常社交习俗——拜访、宴请、聚会</option>
+                    <option value="/mod/folder/view.php?id=712490&amp;forceview=1">日常社交习俗——送礼、称赞、致谢</option>
+                    <option value="/mod/folder/view.php?id=712491&amp;forceview=1">日常社交习俗——致歉、交友</option>
+                    <option value="/mod/folder/view.php?id=712492&amp;forceview=1">中华传统文化——敬辞和谦辞</option>
+                    <option value="/mod/kalvidres/view.php?id=712493&amp;forceview=1">国际商务礼仪——女士着装规范</option>
+                    <option value="/mod/kalvidres/view.php?id=712494&amp;forceview=1">国际商务礼仪——男士着装礼仪</option>
+                    <option value="/mod/kalvidres/view.php?id=712495&amp;forceview=1">国际商务礼仪——名片礼仪</option>
+                    <option value="/mod/kalvidres/view.php?id=712496&amp;forceview=1">国际商务礼仪——握手礼仪</option>
+                    <option value="/mod/kalvidres/view.php?id=712497&amp;forceview=1">国际商务礼仪——西餐礼仪</option>
+                    <option value="/mod/resource/view.php?id=712498&amp;forceview=1">1. 初次见面</option>
+                    <option value="/mod/resource/view.php?id=712499&amp;forceview=1">2. 木拓初到美国</option>
+                    <option value="/mod/resource/view.php?id=712500&amp;forceview=1">3. 朋友家的聚餐</option>
+                    <option value="/mod/kalvidres/view.php?id=712502&amp;forceview=1">Unit 6-高辉美老师-1.什么是思维方式</option>
+                    <option value="/mod/kalvidres/view.php?id=712503&amp;forceview=1">Unit 6-高辉美老师-2.形象思维与抽象思维</option>
+                    <option value="/mod/kalvidres/view.php?id=712504&amp;forceview=1">Unit 6-高辉美老师-3.综合思维与分析思维</option>
+                    <option value="/mod/kalvidres/view.php?id=712505&amp;forceview=1">Unit 6-高辉美老师-4.归纳与演绎</option>
+                    <option value="/mod/resource/view.php?id=712506&amp;forceview=1">讲义：第6单元（含思考题及考核提示） </option>
+                    <option value="/mod/forum/view.php?id=712507&amp;forceview=1">非实时讨论（思维方式差异与英语写作）</option>
+                    <option value="/mod/resource/view.php?id=712509&amp;forceview=1">中国人的围棋围棋思维方式</option>
+                    <option value="/mod/resource/view.php?id=712510&amp;forceview=1">语言习惯：学外语的瓶颈</option>
+                    <option value="/mod/folder/view.php?id=712511&amp;forceview=1">中西思维方式差异与英语学习</option>
+                    <option value="/mod/folder/view.php?id=712512&amp;forceview=1">各国跨文化谈判风格比较</option>
+                    <option value="/mod/resource/view.php?id=712513&amp;forceview=1">1. 理论阐释：思维方式冲突</option>
+                    <option value="/mod/resource/view.php?id=712514&amp;forceview=1">2. 直觉思维与逻辑思维</option>
+                    <option value="/mod/resource/view.php?id=712515&amp;forceview=1">3. 综合思维与分析思维</option>
+                    <option value="/mod/resource/view.php?id=712516&amp;forceview=1">4. 归纳与演绎思维</option>
+                    <option value="/mod/kalvidres/view.php?id=712518&amp;forceview=1">Unit 7-牛刘伟老师-1.什么是文化价值观</option>
+                    <option value="/mod/kalvidres/view.php?id=712519&amp;forceview=1">Unit 7-牛刘伟老师-2. 霍夫斯泰德的文化维度理论 </option>
+                    <option value="/mod/kalvidres/view.php?id=712520&amp;forceview=1">Unit 7-赵翠芳老师-案例分析1：权力距离</option>
+                    <option value="/mod/kalvidres/view.php?id=712521&amp;forceview=1">Unit 7-赵翠芳老师-案例分析2：个体主义与集体主义 </option>
+                    <option value="/mod/kalvidres/view.php?id=712522&amp;forceview=1">Unit 7-赵翠芳老师-案例分析3：男性化与女性化程度</option>
+                    <option value="/mod/kalvidres/view.php?id=712523&amp;forceview=1">Unit 7-赵翠芳老师-案例分析4：不确定性规避</option>
+                    <option value="/mod/kalvidres/view.php?id=712524&amp;forceview=1">Unit 7-赵翠芳老师-案例分析5：长期与短期取向</option>
+                    <option value="/mod/resource/view.php?id=712525&amp;forceview=1">讲义：第7单元（含思考题及考核提示） </option>
+                    <option value="/mod/forum/view.php?id=712526&amp;forceview=1">实时讨论（期末复习指导）【5月25日（周四）20:00-21:00】</option>
+                    <option value="/mod/folder/view.php?id=712528&amp;forceview=1">什么是世界观、人生观与价值观</option>
+                    <option value="/mod/folder/view.php?id=712529&amp;forceview=1">霍夫斯泰德的价值观衡量维度</option>
+                    <option value="/mod/folder/view.php?id=712530&amp;forceview=1">中西方文化价值观对比</option>
+                    <option value="/mod/resource/view.php?id=712531&amp;forceview=1">第三只眼看“面子”</option>
+                    <option value="/mod/resource/view.php?id=712532&amp;forceview=1">中国人的性格：保全面子</option>
+                    <option value="/mod/resource/view.php?id=712533&amp;forceview=1">1. 理论阐释：文化价值观冲突</option>
+                    <option value="/mod/resource/view.php?id=712534&amp;forceview=1">2. 按绩取酬在意大利的推行</option>
+                    <option value="/mod/resource/view.php?id=712535&amp;forceview=1">3. 如何管理总是同意上级的中国人</option>
+                    <option value="/mod/resource/view.php?id=712536&amp;forceview=1">4. 肇事者该受罚吗？</option>
+                    <option value="/mod/resource/view.php?id=712537&amp;forceview=1">5. 参与还是服从？</option>
+                    <option value="/mod/resource/view.php?id=712538&amp;forceview=1">6. 为什么秘鲁工人离职呢？</option>
+                    <option value="/mod/resource/view.php?id=712539&amp;forceview=1">7. 加拿大雇员与菲律宾老板</option>
+                    <option value="/mod/resource/view.php?id=712540&amp;forceview=1">8. 是谁的主意？</option>
+                    <option value="/mod/resource/view.php?id=712541&amp;forceview=1">9. 英国总经理在泰国</option>
+                    <option value="/mod/resource/view.php?id=712542&amp;forceview=1">10. 芭比娃娃在中东遭遇危机是谁之过？</option>
+                    <option value="/mod/resource/view.php?id=712543&amp;forceview=1">11. 茶叶价格，是降还是不降？</option>
+                    <option value="/mod/resource/view.php?id=712544&amp;forceview=1">12. 宜家在德国</option>
+                    <option value="/mod/resource/view.php?id=712545&amp;forceview=1">13. eBay在日本留下的遗憾</option>
+                    <option value="/mod/kalvidres/view.php?id=712547&amp;forceview=1">Unit 8-牛刘伟老师-1.文化休克现象</option>
+                    <option value="/mod/kalvidres/view.php?id=712548&amp;forceview=1">Unit 8-牛刘伟老师-2.如何克服文化休克</option>
+                    <option value="/mod/kalvidres/view.php?id=712549&amp;forceview=1">Unit 8-牛刘伟老师-3.跨文化交际冲突与障碍</option>
+                    <option value="/mod/kalvidres/view.php?id=712550&amp;forceview=1">Unit 8-赵翠芳老师-4.如何提高跨文化交际能力</option>
+                    <option value="/mod/resource/view.php?id=712551&amp;forceview=1">讲义：第8单元（含思考题及考核提示） </option>
+                    <option value="/mod/folder/view.php?id=712555&amp;forceview=1">跨文化交际冲突与障碍</option>
+                    <option value="/mod/folder/view.php?id=712556&amp;forceview=1">文化休克与跨文化适应</option>
+                    <option value="/mod/resource/view.php?id=712557&amp;forceview=1">我的外国丈夫（上）</option>
+                    <option value="/mod/resource/view.php?id=712558&amp;forceview=1">我的外国丈夫（下）</option>
+                    <option value="/mod/resource/view.php?id=712559&amp;forceview=1">1. 肯德基的成败之路</option>
+                    <option value="/mod/resource/view.php?id=712560&amp;forceview=1">2. 鹿特丹市的上海城酒家</option>
+                    <option value="/mod/forum/view.php?id=712561&amp;forceview=1">答疑交流区【已设分隔小组，请辅导教师跟进答疑】</option>
+                    <option value="/mod/forum/view.php?id=712562&amp;forceview=1">课程辅导教师教研会议【时间待定，届时将提前发布课程公告】</option>
+                    <option value="/mod/quiz/view.php?id=712564&amp;forceview=1">Test 1</option>
+                    <option value="/mod/quiz/view.php?id=712570&amp;forceview=1">Test 2</option>
+                    <option value="/mod/quiz/view.php?id=712576&amp;forceview=1">Test 3</option>
+                    <option value="/mod/forum/view.php?id=712581&amp;forceview=1">非实时讨论（案例分析）【5分】</option>
+                    <option value="/mod/forum/view.php?id=712582&amp;forceview=1">非实时讨论（课程总结）【5分】</option>
+                    <option value="/mod/page/view.php?id=712583&amp;forceview=1">这桌“山东特产”，是用布缝的🤩【知识点链接：Unit １】</option>
+                    <option value="/mod/page/view.php?id=712584&amp;forceview=1">能打乒乓球的达濠鱼丸，入选第三届亚青会菜单【知识点链接：Unit １】</option>
+                    <option value="/mod/page/view.php?id=712585&amp;forceview=1">广州、佛山、中山、江门、湛江、肇庆.....六地预制广府菜，你站哪一盘？ 【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712586&amp;forceview=1">As blind as a bat是“像蝙蝠一样看不见”吗？【知识点链接：Unit 3】</option>
+                    <option value="/mod/page/view.php?id=712587&amp;forceview=1">black art可不是“黑色的艺术”的意思，它真正的含义令人害怕！【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712588&amp;forceview=1">传统文化：清明节的英文知识【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712589&amp;forceview=1">和外国客户谈论饮食习惯也是更好合作的一部分【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712590&amp;forceview=1">拜年必备的这些新年祝福，你知道用英语怎么说吗？【知识点链接：Unit 5】</option>
+                    <option value="/mod/page/view.php?id=712591&amp;forceview=1">◈大國復興◈中共中央国务院重大国策：全面复兴传统文化！【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712592&amp;forceview=1">原来伏特加竟然用来……这些酒文化你知道吗？【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712593&amp;forceview=1">兵马俑VS自由女神！这段视频在国外火了【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712594&amp;forceview=1">太燃了！国风“妖怪”相继出道后，敦煌再次震撼全网：“中国文化又一次让我沦陷了！”【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712595&amp;forceview=1">中共中央国务院重大国策：全面复兴传统文化【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712596&amp;forceview=1">快快看过来：2017年首最佳跨文化商务沟通案例【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712597&amp;forceview=1">小彩蛋大世界【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712598&amp;forceview=1">厉害了！潮汕粿品竟然有五百年的历史了！你知道吗？【知识点链接：Unit 1】</option>
+                    <option value="/mod/page/view.php?id=712599&amp;forceview=1">川普其实很暖很有爱？肢体语言专家为你解密【知识点链接：Unit 2】</option>
+                    <option value="/mod/page/view.php?id=712600&amp;forceview=1">相隔3米等公交的芬兰人在想啥？拼命挤地铁的你永远不懂【知识点链接：Unit 2】</option>
+                    <option value="/mod/page/view.php?id=712601&amp;forceview=1">老外表示：比中文更难学的是中式Emoji！！【知识点链接：Unit 2】</option>
+                    <option value="/mod/page/view.php?id=712602&amp;forceview=1">汉语里的外来词简直出乎意料！吓得宝宝赶紧翻开了新华字典…【知识点链接：Unit 3】</option>
+                    <option value="/mod/page/view.php?id=712603&amp;forceview=1">真没想到，“高考”的英文表达竟然是它！【知识点链接：Unit 3】</option>
+                    <option value="/mod/page/view.php?id=712604&amp;forceview=1">饺子的英语是dumpling？错！【知识点链接：Unit 3】</option>
+                    <option value="/mod/page/view.php?id=712605&amp;forceview=1">给孩子取完名字，我疯了【知识点链接：Unit 3】</option>
+                    <option value="/mod/page/view.php?id=712606&amp;forceview=1">“您的夫人很美味！”马克龙访澳语出惊人，法国人这么直白？【知识点链接：Unit 3】</option>
+                    <option value="/mod/page/view.php?id=712607&amp;forceview=1">从白百何事件中，学习“狗仔”、“绿帽子”、“小狼狗”的英文表达【知识点链接：Units 3-4】</option>
+                    <option value="/mod/page/view.php?id=712608&amp;forceview=1">为什么世界各国的国旗上几乎不用紫色？【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712609&amp;forceview=1">“Yellow Book” 从来都不是 “黄色”书籍【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712610&amp;forceview=1">“早生贵子” 别说成 “have a baby soon”！老外听了不爽！【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712611&amp;forceview=1">Proverbs, Sayings, Motto 谚语、俗语、格言，啥区别？【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712612&amp;forceview=1">听成语故事，学地道英语：乱七八糟【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712613&amp;forceview=1">听成语故事，学地道英语：画蛇添足【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712614&amp;forceview=1">这些品牌名居然和希腊神话有关，真是万万没想到！【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712615&amp;forceview=1">母亲节的起源，一个基督徒对母亲的爱！【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712616&amp;forceview=1">中国人是如何把圣诞改造成土炸天的国产节日的？【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712617&amp;forceview=1">老外忌讳的13在中国却是个吉利数…【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712618&amp;forceview=1">罗马数字中的“4”为什么不是四道杠，看完涨知识了！【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712619&amp;forceview=1">天津人为嘛爱叫人姐姐？介里面学问大了！【知识点链接：Unit 5】</option>
+                    <option value="/mod/page/view.php?id=712620&amp;forceview=1">可以喊女孩lady，但千万别喊woman！不然就会出大事【知识点链接：Unit 5】</option>
+                    <option value="/mod/page/view.php?id=712621&amp;forceview=1">听说自己叫“梅姨”，英国首相开心到飞起！而外媒的态度却一言难尽...【知识点链接：Unit 5】</option>
+                    <option value="/mod/page/view.php?id=712622&amp;forceview=1">广东人吃饭前为什么要用开水涮碗？真相是...【知识点链接：Unit 5】</option>
+                    <option value="/mod/page/view.php?id=712623&amp;forceview=1">犹太人和穆斯林为什么不吃猪肉？【知识点链接：Unit 5】</option>
+                    <option value="/mod/page/view.php?id=712624&amp;forceview=1">刘国梁：所有的胜利都是价值观的胜利【知识点链接：Unit 7】</option>
+                    <option value="/mod/page/view.php?id=712625&amp;forceview=1">美国人的人生观，真和我们不一样！【知识点链接：Unit 7】</option>
+                    <option value="/mod/page/view.php?id=712626&amp;forceview=1">跨文化交际中隐藏这么多小差异，你有被shock到么？【知识点链接：Unit 8】</option>
+                    <option value="/mod/page/view.php?id=712627&amp;forceview=1">【跨文化案例】跨国经营遭遇文化冲突怎么破【知识点链接：Unit 8】</option>
+                    <option value="/mod/page/view.php?id=712628&amp;forceview=1">【案例】中国女大学生去了印度一趟傻眼了：印度你拿什么叫板中国？【知识点链接：Unit 8】</option>
+                    <option value="/mod/page/view.php?id=712629&amp;forceview=1">【跨文化亲历】澳洲见闻 | 张晶：我感受到了你们学汉语的热情【知识点链接：Unit 8】</option>
+                    <option value="/mod/page/view.php?id=712630&amp;forceview=1">入哈佛前,我也经历了美国留学的焦虑【知识点链接：Unit 8】</option>
+                    <option value="/mod/page/view.php?id=712631&amp;forceview=1">“为了孩子，不要移民这里！”二代华裔真心话引发全体中国人深思！【知识点链接：Unit 8】</option>
+                    <option value="/mod/page/view.php?id=712632&amp;forceview=1">一班十个人 八国小豆丁【知识点链接：Unit 8】</option>
+                    <option value="/mod/page/view.php?id=712633&amp;forceview=1">Honesty Day诚实节：8岁小孩献出生命换来的节日，你知道吗？【知识点链接：Unit 4】</option>
+                    <option value="/mod/page/view.php?id=712634&amp;forceview=1">自从这群歪果仁误解了中国以后【知识点链接：Unit 8】 </option>
+                    <option value="/mod/page/view.php?id=712636&amp;forceview=1">中国人的性格</option>
+                    <option value="/mod/page/view.php?id=712637&amp;forceview=1">老外看中国：中国的“香烟社交”</option>
+                    <option value="/mod/page/view.php?id=712639&amp;forceview=1">子曰韩国</option>
+                    <option value="/mod/page/view.php?id=712641&amp;forceview=1">日本杂议</option>
+                    <option value="/mod/page/view.php?id=712643&amp;forceview=1">迟到的间隔年</option>
+                    <option value="/mod/page/view.php?id=712645&amp;forceview=1">迟到的间隔年03：曼谷的迎宾礼</option>
+                    <option value="/mod/page/view.php?id=712647&amp;forceview=1">不可思议的印度</option>
+                    <option value="/mod/page/view.php?id=712648&amp;forceview=1">揭秘印度饮食文化：印度人吃饭为何用手抓？</option>
+                    <option value="/mod/page/view.php?id=712650&amp;forceview=1">迟到的间隔年：巴基斯坦大游行</option>
+                    <option value="/mod/page/view.php?id=712652&amp;forceview=1">龙应台：走过疲惫的巴勒斯坦</option>
+                    <option value="/mod/page/view.php?id=712654&amp;forceview=1">一口气读完伊朗简史</option>
+                    <option value="/mod/page/view.php?id=712655&amp;forceview=1">古国伊朗简史</option>
+                    <option value="/mod/page/view.php?id=712657&amp;forceview=1">吃掉手指头般香的美食：土耳其羊肉手抓饭</option>
+                    <option value="/mod/page/view.php?id=712658&amp;forceview=1">土耳其人 不可一日无茶</option>
+                    <option value="/mod/page/view.php?id=712659&amp;forceview=1">土耳其浴——幸福躲在浴室里</option>
+                    <option value="/mod/page/view.php?id=712660&amp;forceview=1">土耳其浴：打破阶层限制，人们赤诚相见</option>
+                    <option value="/mod/page/view.php?id=712661&amp;forceview=1">亲身体验告诉你 土耳其浴到底是不是男女混浴</option>
+                    <option value="/mod/page/view.php?id=712663&amp;forceview=1">以色列的故事</option>
+                    <option value="/mod/page/view.php?id=712664&amp;forceview=1">千年流浪而精神不散的民族－犹太人</option>
+                    <option value="/mod/page/view.php?id=712665&amp;forceview=1">"和平"之都耶路撒冷</option>
+                    <option value="/mod/page/view.php?id=712666&amp;forceview=1">以色列强大的秘密是两个犹太人有三个脑袋</option>
+                    <option value="/mod/page/view.php?id=712668&amp;forceview=1">你如果没去过酒吧，那就等于没有到过英国</option>
+                    <option value="/mod/page/view.php?id=712669&amp;forceview=1">习大大和卡梅伦首相去的那家乡村酒吧，英国人民打几分？</option>
+                    <option value="/mod/page/view.php?id=712670&amp;forceview=1">你不知道的英式下午茶秘密</option>
+                    <option value="/mod/page/view.php?id=712671&amp;forceview=1">正统PK奢华：英式下午茶要有多少标配器皿？</option>
+                    <option value="/mod/page/view.php?id=712672&amp;forceview=1">英国办公室文化中的一个小秘密</option>
+                    <option value="/mod/page/view.php?id=712673&amp;forceview=1">昂贵的英国和简约的英式人情</option>
+                    <option value="/mod/page/view.php?id=712674&amp;forceview=1">像英国中产阶级那样生活</option>
+                    <option value="/mod/page/view.php?id=712675&amp;forceview=1">英国养老院中的故事</option>
+                    <option value="/mod/page/view.php?id=712677&amp;forceview=1">调查：法国人自认全球牢骚之王(双语有声)</option>
+                    <option value="/mod/page/view.php?id=712678&amp;forceview=1">法国人 天生的“抱怨冠军”？</option>
+                    <option value="/mod/page/view.php?id=712679&amp;forceview=1">我是法国人，我天天抱怨英国人，只因我们之间的爱恨情仇实在太多</option>
+                    <option value="/mod/page/view.php?id=712680&amp;forceview=1">优雅养成记之法式用餐礼仪</option>
+                    <option value="/mod/page/view.php?id=712681&amp;forceview=1">法式"女士优先"的背后  </option>
+                    <option value="/mod/page/view.php?id=712682&amp;forceview=1">香奈儿：女人的浪漫传奇</option>
+                    <option value="/mod/page/view.php?id=712683&amp;forceview=1">巴黎，永远的红磨坊</option>
+                    <option value="/mod/page/view.php?id=712684&amp;forceview=1">居里夫人：一段身败名裂的情事</option>
+                    <option value="/mod/page/view.php?id=712686&amp;forceview=1">意大利“慢城”</option>
+                    <option value="/mod/page/view.php?id=712687&amp;forceview=1">意大利慢城生活 </option>
+                    <option value="/mod/page/view.php?id=712688&amp;forceview=1">在古城罗马，尝遍万千美好滋味</option>
+                    <option value="/mod/page/view.php?id=712689&amp;forceview=1">绕着地球吃——古城罗马</option>
+                    <option value="/mod/page/view.php?id=712690&amp;forceview=1">意大利足球彩票体系简介</option>
+                    <option value="/mod/page/view.php?id=712691&amp;forceview=1">罗马的“中国年”啥滋味？</option>
+                    <option value="/mod/page/view.php?id=712693&amp;forceview=1">“讨债小丑”成西班牙一景</option>
+                    <option value="/mod/page/view.php?id=712694&amp;forceview=1">情迷巴塞罗那之六天深度游</option>
+                    <option value="/mod/page/view.php?id=712696&amp;forceview=1">爱读书的德国人</option>
+                    <option value="/mod/page/view.php?id=712697&amp;forceview=1">爱读书的德国人（来自豆瓣）</option>
+                    <option value="/mod/page/view.php?id=712698&amp;forceview=1">德国人为什么这么爱读书？</option>
+                    <option value="/mod/page/view.php?id=712699&amp;forceview=1">德国人让我难忘的细节</option>
+                    <option value="/mod/page/view.php?id=712700&amp;forceview=1">从名片看德国学术称谓多严格</option>
+                    <option value="/mod/page/view.php?id=712701&amp;forceview=1">从两则笑话看德国</option>
+                    <option value="/mod/page/view.php?id=712702&amp;forceview=1">穿越柏林墙的故事</option>
+                    <option value="/mod/page/view.php?id=712703&amp;forceview=1">希特勒一生经历过的暗杀</option>
+                    <option value="/mod/page/view.php?id=712704&amp;forceview=1">德国大众 征服全世界(上)【双语版，附音频】</option>
+                    <option value="/mod/page/view.php?id=712705&amp;forceview=1">德国大众 征服全世界(下)【双语版，附音频】</option>
+                    <option value="/mod/page/view.php?id=712706&amp;forceview=1">看原版影视剧 学纯正英语</option>
+                    <option value="/mod/page/view.php?id=712707&amp;forceview=1">从跨文化交际角度看电影片名翻译</option>
+                    <option value="/mod/page/view.php?id=712708&amp;forceview=1">友情提示：不要乱看美剧学英语</option>
+                    <option value="/mod/page/view.php?id=712709&amp;forceview=1">影视中常见的黑人口语</option>
+                    <option value="/mod/page/view.php?id=712710&amp;forceview=1">美国影片中的英文骂人</option>
+                    <option value="/mod/page/view.php?id=712711&amp;forceview=1">独立纪录片《外国人眼中的中国人》 </option>
+                    <option value="/mod/page/view.php?id=712712&amp;forceview=1">电影《刮痧&amp;gt;》 </option>
+                    <option value="/mod/page/view.php?id=712713&amp;forceview=1">赏析：从霍夫斯塔德的文化价值观看《刮痧》的中美文化差异</option>
+                    <option value="/mod/page/view.php?id=712714&amp;forceview=1">赏析：从电影《刮痧》看东西方思维模式的差异</option>
+                    <option value="/mod/page/view.php?id=712715&amp;forceview=1">电影《推手》 </option>
+                    <option value="/mod/page/view.php?id=712716&amp;forceview=1">赏析：从霍夫斯泰德的文化维度理论看电影《推手》的中美跨文化交际冲突</option>
+                    <option value="/mod/page/view.php?id=712717&amp;forceview=1">电影《饮食男女》 </option>
+                    <option value="/mod/page/view.php?id=712718&amp;forceview=1">赏析：解构与重建——从《饮食男女》看东西方文化的碰撞</option>
+                    <option value="/mod/page/view.php?id=712719&amp;forceview=1">电影《喜福会》 </option>
+                    <option value="/mod/page/view.php?id=712720&amp;forceview=1">赏析：从《喜福会》中的母女关系看中美文化差异</option>
+                    <option value="/mod/page/view.php?id=712721&amp;forceview=1">电影《撞车》 </option>
+                    <option value="/mod/page/view.php?id=712722&amp;forceview=1">赏析：解读电影《撞车》所折射的美国文化冲突</option>
+                    <option value="/mod/page/view.php?id=712723&amp;forceview=1">网络电台：跨文化交际中的有趣现象（共2集）</option>
+                    <option value="/mod/page/view.php?id=712724&amp;forceview=1">博客推荐：东方文化西方语</option>
+                    <option value="/mod/page/view.php?id=712725&amp;forceview=1">网站推荐：中国礼仪网</option>
+                    <option value="/mod/page/view.php?id=712726&amp;forceview=1">网站推荐：美国驻华使馆网站</option>
+                    <option value="/mod/page/view.php?id=712727&amp;forceview=1">网站推荐：韩国旅游发展局</option>
+                    <option value="/mod/page/view.php?id=712728&amp;forceview=1">图书推介：《图解跨文化交流学（中文）》 </option>
+                    <option value="/mod/page/view.php?id=712729&amp;forceview=1">图书推介：《跨文化交际学概论（中文）》</option>
+                    <option value="/mod/page/view.php?id=712730&amp;forceview=1">图书推介：跨文化商务交流案例分析（双语）</option>
+                    <option value="/mod/page/view.php?id=712731&amp;forceview=1">图书推介：《英美文化辞典（中文）》</option>
+                    <option value="/mod/page/view.php?id=712732&amp;forceview=1">图书推介：《跨文化管理（中文）》</option>
+                    <option value="/mod/page/view.php?id=712733&amp;forceview=1">图书推介：《与“鬼”为邻》</option>
+                    <option value="/mod/page/view.php?id=712734&amp;forceview=1">图书推介：《在日本，我忍不住又笑了——萨苏带你看日本》</option>
+                    <option value="/mod/page/view.php?id=712735&amp;forceview=1">图书推介：《流利英语不可不知的3000个背景话题 日常生活篇》</option>
+                    <option value="/mod/page/view.php?id=712736&amp;forceview=1">图书推介：《流利英语不可不知的3000个背景常识 人文地理篇》</option>
+                    <option value="/mod/page/view.php?id=712737&amp;forceview=1">图书推介：《流利英语不可不知的3000个背景常识 西方文化篇》</option>
+                    <option value="/mod/page/view.php?id=712738&amp;forceview=1">图书推介：《流利英语不可不知的3000个背景常识 西方文学篇》</option>
+                    <option value="/mod/page/view.php?id=712739&amp;forceview=1">图书推介：《流利英语不可不知的3000个背景常识 历史知识篇》</option>
+                    <option value="/mod/page/view.php?id=712740&amp;forceview=1">图书推介：《每天读点中国文化·民俗风情（英语阅读系列）》 </option>
+                    <option value="/mod/page/view.php?id=712741&amp;forceview=1">图书推介：《每天读点中国文化·建筑艺术（英语阅读系列）》 </option>
+                    <option value="/mod/page/view.php?id=712742&amp;forceview=1">图书推介：《每天读点中国文化·国学经典（英语阅读系列）》 </option>
+                    <option value="/mod/page/view.php?id=712743&amp;forceview=1">图书推介：《每天读点中国文化·自然景观（英语阅读系列）》 </option>
+                    <option value="/mod/page/view.php?id=712744&amp;forceview=1">图书推介：《每天读点中国文化·饮食天下（英语阅读系列）》 </option>
+                    <option value="/mod/page/view.php?id=712745&amp;forceview=1">图书推介：《每天读点中国文化·城镇魅力（英语阅读系列）》 </option>
+                    <option value="/mod/page/view.php?id=712746&amp;forceview=1">图书推介：《中国传统文化：经典民间故事（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712747&amp;forceview=1">图书推介：《中国传统文化：经典神话故事（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712748&amp;forceview=1">图书推介：《中国传统文化：经典名人故事（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712749&amp;forceview=1">图书推介：《中国传统文化：经典哲理故事（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712750&amp;forceview=1">图书推介：《中国传统文化经典故事100篇（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712751&amp;forceview=1">图书推介：《中外文化英语话题一席谈（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712752&amp;forceview=1">图书推介：《中话西说巧学英语—流行语篇+文化习俗篇》 </option>
+                    <option value="/mod/page/view.php?id=712753&amp;forceview=1">图书推介：《边学英语边品中国文化》</option>
+                    <option value="/mod/page/view.php?id=712754&amp;forceview=1">图书推介：《边学英语边品世界文化》</option>
+                    <option value="/mod/page/view.php?id=712755&amp;forceview=1">图书推介：《中国文化英语80主题（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712756&amp;forceview=1">图书推介：《世界风情英语80主题（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712757&amp;forceview=1">图书推介：《英语畅谈中国文化50主题（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712758&amp;forceview=1">图书推介：《英语畅谈世界文化100主题（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712759&amp;forceview=1">图书推介：《英语畅谈青春文化50主题（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712760&amp;forceview=1">图书推介：《英语畅谈中国文化76主题》 </option>
+                    <option value="/mod/page/view.php?id=712761&amp;forceview=1">图书推介：《英语畅谈世界文化99主题》 </option>
+                    <option value="/mod/page/view.php?id=712762&amp;forceview=1">图书推介：《英语漫谈中国文化（附光盘）》 </option>
+                    <option value="/mod/page/view.php?id=712763&amp;forceview=1">图书推介：《英语漫谈世界文化（附光盘）》 </option>
+        
+                    <option value="" selected="">跳至...</option>
+                    <option value="/mod/forum/view.php?id=705048&amp;forceview=1">新闻讨论区</option>
+                    <option value="/mod/forum/view.php?id=769993&amp;forceview=1">新闻讨论区</option>
+                    <option value="/mod/url/view.php?id=769994&amp;forceview=1">消费类电子海外需求</option>
+                    <option value="/mod/page/view.php?id=769995&amp;forceview=1">课程简介</option>
+                    <option value="/mod/page/view.php?id=769996&amp;forceview=1">课程大纲</option>
+                    <option value="/mod/page/view.php?id=769997&amp;forceview=1">考核方式</option>
+                    <option value="/mod/page/view.php?id=769998&amp;forceview=1">学习指引</option>
+                    <option value="/mod/page/view.php?id=769999&amp;forceview=1">教学建议（致辅导教师）</option>
+                    <option value="/mod/kalvidres/view.php?id=770003&amp;forceview=1">第一章-2. 跨境电商人才发展及机遇</option>
+                    <option value="/mod/forum/view.php?id=770006&amp;forceview=1">实时讨论（课程学习指引）【选做，3月23日（周四）20:00-21:00】</option>
+                    <option value="/mod/kalvidres/view.php?id=770010&amp;forceview=1">第二章第1节-1. 敦煌网注册及认证</option>
+                    <option value="/mod/kalvidres/view.php?id=770011&amp;forceview=1">第二章第1节-2. 敦煌网首页介绍（平台操作）</option>
+                    <option value="/mod/kalvidres/view.php?id=770012&amp;forceview=1">第二章第1节-3. 敦煌网后台介绍（平台操作）</option>
+                    <option value="/mod/kalvidres/view.php?id=770013&amp;forceview=1">第二章第1节-4. 敦煌网店铺信息描述</option>
+                    <option value="/mod/kalvidres/view.php?id=770016&amp;forceview=1">第二章第2节-1. 敦煌网行业分析（1）（平台操作）</option>
+                    <option value="/mod/kalvidres/view.php?id=770017&amp;forceview=1">第二章第2节-2. 敦煌网行业分析（2）（平台操作）</option>
+                    <option value="/mod/kalvidres/view.php?id=770018&amp;forceview=1">第二章第2节-3. 敦煌网产品选择（1）（平台操作）</option>
+                    <option value="/mod/kalvidres/view.php?id=770019&amp;forceview=1">第二章第2节-4. 敦煌网产品选择（2）（平台操作）</option>
+                    <option value="/mod/forum/view.php?id=770021&amp;forceview=1">非实时讨论（跨境电商大卖家）【选做】</option>
+                    <option value="/mod/kalvidres/view.php?id=770025&amp;forceview=1">第三章第1节-1. 产品图片描述及要求（1）</option>
+                    <option value="/mod/kalvidres/view.php?id=770026&amp;forceview=1">第三章第1节-2. 产品图片描述及要求（2）</option>
+                    <option value="/mod/kalvidres/view.php?id=770030&amp;forceview=1">第三章第2节-1. 产品描述（1）：理论</option>
+                    <option value="/mod/kalvidres/view.php?id=770031&amp;forceview=1">第三章第2节-2. 产品描述（1）：实操</option>
+                    <option value="/mod/kalvidres/view.php?id=770032&amp;forceview=1">第三章第2节-3. 产品描述（2）：理论</option>
+                    <option value="/mod/kalvidres/view.php?id=770033&amp;forceview=1">第三章第2节-4. 产品描述（2）：实操</option>
+                    <option value="/mod/kalvidres/view.php?id=770034&amp;forceview=1">第三章第2节-5. 产品描述（3）：理论</option>
+                    <option value="/mod/kalvidres/view.php?id=770035&amp;forceview=1">第三章第2节-6. 产品描述（3）：实操</option>
+                    <option value="/mod/kalvidres/view.php?id=770041&amp;forceview=1">第四章第1节-1. 国际物流介绍（1）</option>
+                    <option value="/mod/kalvidres/view.php?id=770042&amp;forceview=1">第四章第1节-2. 国际物流介绍（2）</option>
+                    <option value="/mod/kalvidres/view.php?id=770043&amp;forceview=1">第四章第1节-3. 产品销售价格计算（1）</option>
+                    <option value="/mod/kalvidres/view.php?id=770044&amp;forceview=1">第四章第1节-4. 产品销售价格计算（2）</option>
+                    <option value="/mod/kalvidres/view.php?id=770045&amp;forceview=1">第四章第1节-5. 产品物流模版制作（1）</option>
+                    <option value="/mod/kalvidres/view.php?id=770046&amp;forceview=1">第四章第1节-6. 产品物流模版制作（2）</option>
+                    <option value="/mod/kalvidres/view.php?id=770050&amp;forceview=1">第四章第2节-1. 产品排名规则（1）</option>
+                    <option value="/mod/kalvidres/view.php?id=770051&amp;forceview=1">第四章第2节-2. 产品排名规则（2）</option>
+                    <option value="/mod/kalvidres/view.php?id=770052&amp;forceview=1">第四章第2节-3. 产品上传全流程（1）理论</option>
+                    <option value="/mod/kalvidres/view.php?id=770053&amp;forceview=1">第四章第2节-4. 产品上传全流程（2）实操</option>
+                    <option value="/mod/forum/view.php?id=770055&amp;forceview=1">非实时讨论（跨境电商网店选品）【选做】</option>
+                    <option value="/mod/kalvidres/view.php?id=770060&amp;forceview=1">第五章第1节-1. 平台数据分析（1）</option>
+                    <option value="/mod/kalvidres/view.php?id=770061&amp;forceview=1">第五章第1节-2. 平台数据分析（2）</option>
+                    <option value="/mod/kalvidres/view.php?id=770062&amp;forceview=1">第五章第1节-3. 新手数据分析：店铺优化（1）</option>
+                    <option value="/mod/kalvidres/view.php?id=770063&amp;forceview=1">第五章第1节-4. 新手数据分析：店铺优化（2）</option>
+                    <option value="/mod/kalvidres/view.php?id=770064&amp;forceview=1">第五章第1节-5. 店铺橱窗管理</option>
+                    <option value="/mod/kalvidres/view.php?id=770067&amp;forceview=1">第五章第2节-店铺横幅</option>
+                    <option value="/mod/kalvidres/view.php?id=770070&amp;forceview=1">第五章第3节-流量快车</option>
+                    <option value="/mod/kalvidres/view.php?id=770073&amp;forceview=1">第五章第4节-1. 平台活动申报</option>
+                    <option value="/mod/kalvidres/view.php?id=770074&amp;forceview=1">第五章第4节-2. 店铺活动设置</option>
+                    <option value="/mod/kalvidres/view.php?id=770075&amp;forceview=1">第五章第4节-3. 站外推广</option>
+                    <option value="/mod/forum/view.php?id=770077&amp;forceview=1">非实时讨论（店铺营销注意事项）【选做】</option>
+                    <option value="/mod/kalvidres/view.php?id=770081&amp;forceview=1">第六章第1节-1. 询盘及回盘</option>
+                    <option value="/mod/kalvidres/view.php?id=770082&amp;forceview=1">第六章第1节-2. 投诉及处理</option>
+                    <option value="/mod/kalvidres/view.php?id=770083&amp;forceview=1">第六章第1节-3. 评价管理</option>
+                    <option value="/mod/kalvidres/view.php?id=770086&amp;forceview=1">第六章第2节-1. 客户管理</option>
+                    <option value="/mod/kalvidres/view.php?id=770087&amp;forceview=1">第六章第2节-2. 物流信息查询</option>
+                    <option value="/mod/forum/view.php?id=770089&amp;forceview=1">实时讨论（期末小结及学习交流）【选做，5月25日（周四）20:00-21:00】</option>
+                    <option value="/mod/forum/view.php?id=770092&amp;forceview=1">答疑交流区【已设分隔小组，请辅导教师跟进答疑】</option>
+                    <option value="/mod/forum/view.php?id=770093&amp;forceview=1">课程辅导教师教研会议【12月18日】</option>
+                    <option value="/mod/quiz/view.php?id=770094&amp;forceview=1">测验1：一、判断题（10题，每题3分，共30分）</option>
+                    <option value="/mod/quiz/view.php?id=770095&amp;forceview=1">测验1：二、单选题（10题，每题3分，共30分）</option>
+                    <option value="/mod/quiz/view.php?id=770096&amp;forceview=1">测验1：三、多选题（5题，每题4分，共20分）</option>
+                    <option value="/mod/quiz/view.php?id=770097&amp;forceview=1">测验1：四、填空题（5题，每题4分，共20分）</option>
+                    <option value="/mod/quiz/view.php?id=770098&amp;forceview=1">测验2：一、判断题（10题，每题3分，共30分）</option>
+                    <option value="/mod/quiz/view.php?id=770099&amp;forceview=1">测验2：二、单选题（10题，每题3分，共30分）</option>
+                    <option value="/mod/quiz/view.php?id=770100&amp;forceview=1">测验2：三、多选题（5题，每题4分，共20分）</option>
+                    <option value="/mod/quiz/view.php?id=770101&amp;forceview=1">测验2：四、填空题（5题，每题4分，共20分）</option>
+                    <option value="/mod/assign/view.php?id=770102&amp;forceview=1">实训项目作业提交区</option>
+                    <option value="/mod/page/view.php?id=770104&amp;forceview=1">【跨境干货】社媒 | 你的个人头像竟会影响订单能否成交</option>
+                    <option value="/mod/page/view.php?id=770105&amp;forceview=1">时尚配饰行业产品常见侵权问题</option>
+                    <option value="/mod/page/view.php?id=770106&amp;forceview=1">发制品行业产品常见侵权问题</option>
+                    <option value="/mod/page/view.php?id=770107&amp;forceview=1">手机和手机附件行业产品常见侵权问题</option>
+                    <option value="/mod/page/view.php?id=770108&amp;forceview=1">箱包行业产品常见侵权问题</option>
+                    <option value="/mod/page/view.php?id=770109&amp;forceview=1">消费电子行业产品常见侵权问题</option>
+                    <option value="/mod/page/view.php?id=770110&amp;forceview=1">服装行业产品常见侵权问题</option>
+                    <option value="/mod/page/view.php?id=770111&amp;forceview=1">Apple品牌知识产权专题介绍</option>
+                    <option value="/mod/page/view.php?id=770112&amp;forceview=1">盗用产品图片处罚实施细则</option>
+                    <option value="/mod/page/view.php?id=770113&amp;forceview=1">[数据智囊] 旺季将至，库存未清空的卖家该怎么办？</option>
+                    <option value="/mod/page/view.php?id=770114&amp;forceview=1">外贸干货：10个逼单技巧帮你拿下订单</option>
+                    <option value="/mod/page/view.php?id=770115&amp;forceview=1">跨境电商选品你不得不知的五大秘诀，最后一个你能做到.</option>
+                    <option value="/mod/page/view.php?id=770116&amp;forceview=1">为什么要在年前做外贸？</option>
+                    <option value="/mod/page/view.php?id=770117&amp;forceview=1">[定向展示推广] 普通业务员的邮件VS外贸大神的邮件，差距有多大？</option>
+                    <option value="/mod/page/view.php?id=770118&amp;forceview=1">手机及消费电子多类产品瓜分旺季订单</option>
+                    <option value="/mod/page/view.php?id=770119&amp;forceview=1">家居与花园出口电商热卖爆品，强势抢占大促市场 </option>
+                    <option value="/mod/page/view.php?id=770120&amp;forceview=1">如果你将要或者就在出口货物到欧洲的这个国家那你要看看这些规定哦</option>
+                    <option value="/mod/page/view.php?id=770121&amp;forceview=1">2021年时尚配件&amp;amp;珠宝品类跨境电商热销趋势</option>
+                    <option value="/mod/page/view.php?id=770122&amp;forceview=1">敦煌网平台“急需补充热销类目”名单曝光！你押中了哪个？</option>
+                    <option value="/mod/page/view.php?id=770123&amp;forceview=1">新手卖家入驻半年拿下10万美金，黑五这四大品类爆火非洲</option>
+                    <option value="/mod/page/view.php?id=770124&amp;forceview=1">Google AdWords可助力跨境电商业务出海的3大原因</option>
+                    <option value="/mod/page/view.php?id=770125&amp;forceview=1">【跨境干货】干货！2020年中全球数字化营销报告</option>
+                    <option value="/mod/page/view.php?id=770126&amp;forceview=1">【跨境动态】2020前三季度中国外贸进出口数据分析</option>
+                    <option value="/mod/page/view.php?id=770127&amp;forceview=1">8个提高曝光的Instagram SEO技巧  </option>
+                    <option value="/mod/page/view.php?id=770128&amp;forceview=1">100+店铺遭冻结，这些侵权品快下架</option>
+                    <option value="/mod/page/view.php?id=770129&amp;forceview=1">跨境营销：七大社交营销渠道&amp;amp;渠道特征 </option>
+                    <option value="/mod/page/view.php?id=770130&amp;forceview=1">活动报名 | 2020广东21世纪海上丝绸之路国际博览会</option>
+                    <option value="/mod/page/view.php?id=770131&amp;forceview=1">国务院关于同意在雄安新区等46个城市和地区设立跨境电子商务综合试验区的批复 </option>
+                    <option value="/mod/page/view.php?id=770132&amp;forceview=1">海外“宅经济”崛起，跨境电商如何抓住机会完成逆势增长？</option>
+                    <option value="/mod/page/view.php?id=770133&amp;forceview=1">疫情期间：2万个包裹发不出，订单狂跌4成，我们是怎么活下来的</option>
+                    <option value="/mod/page/view.php?id=770134&amp;forceview=1">推荐两本辅教材</option>
+                    <option value="/mod/page/view.php?id=770135&amp;forceview=1">跨境电商连接世界 将成未来全球贸易主要形式</option>
+                    <option value="/mod/page/view.php?id=770136&amp;forceview=1">跨境：新时代电商关键词</option>
+                    <option value="/mod/page/view.php?id=770137&amp;forceview=1">跨境电商呈多元化发展新趋势</option>
+                    <option value="/mod/page/view.php?id=770138&amp;forceview=1">《跨境电商产业紧缺人才需求目录》发布 ！赶紧，看过来~</option>
+                    <option value="/mod/page/view.php?id=770139&amp;forceview=1">推荐几个跨境电商主题的微信公众号</option>
+                    <option value="/mod/page/view.php?id=770140&amp;forceview=1">“跨境电商第一人”王树彤APEC英文演讲首次曝光</option>
+                    <option value="/mod/page/view.php?id=770141&amp;forceview=1">广州跨境电商为何这么“牛”?</option>
+                    <option value="/mod/page/view.php?id=770142&amp;forceview=1">【卖家故事】一只来自雅宝路的“北极熊”在双11卖爆了......</option>
+                    <option value="/mod/page/view.php?id=770143&amp;forceview=1">跨境出口卖家需要get哪些技能？请上车</option>
+                    <option value="/mod/page/view.php?id=770144&amp;forceview=1">【干货分享】选品idea从哪来？这里有一份最全名单</option>
+                    <option value="/mod/page/view.php?id=770145&amp;forceview=1">一个例子告诉你什么叫产品页优化</option>
+                    <option value="/mod/page/view.php?id=770146&amp;forceview=1">行业观察 | 物流已成为贯穿跨境电商企业发展的有利敲门砖！</option>
+                    <option value="/mod/page/view.php?id=770147&amp;forceview=1">兰亭集势第三季度持续亏损，外贸 B2C 市场里的坑一个比一个深</option>
+                    <option value="/mod/page/view.php?id=770148&amp;forceview=1">俄拟对跨境网购征税 中国电商受冲击最大</option>
+                    <option value="/mod/page/view.php?id=770149&amp;forceview=1">第一届国际服装采购对接会圆满成功</option>
+                    <option value="/mod/url/view.php?id=770150&amp;forceview=1">2021中国跨境电商发展报告-德勤</option>
+                    <option value="/mod/url/view.php?id=770151&amp;forceview=1">2021全球速卖通产业出海推介会·泉州站</option>
+                    <option value="/mod/url/view.php?id=770152&amp;forceview=1">“清明祭”《2020中国电商平台“死亡”数据报告》（PPT）</option>
+                    <option value="/mod/url/view.php?id=770153&amp;forceview=1">全国首个RCEP跨境电商专项政策发布 提出25条创新措施</option>
+                    <option value="/mod/url/view.php?id=770154&amp;forceview=1">外贸必备的10个浏览器插件</option>
+                    <option value="/mod/url/view.php?id=770155&amp;forceview=1">中国跨境电商的市场现状和发展前景分析</option>
+                    <option value="/mod/url/view.php?id=770156&amp;forceview=1">跨境电商的发展趋势有哪些？跨境电商发展现状与趋势</option>
+        
+                    <option value="" selected="">跳至...</option>
+                    <option value="/mod/forum/view.php?id=705038&amp;forceview=1">新闻讨论区</option>
+                    <option value="/mod/forum/view.php?id=722528&amp;forceview=1">新闻讨论区</option>
+                    <option value="/mod/page/view.php?id=722530&amp;forceview=1">教学团队</option>
+                    <option value="/mod/page/view.php?id=722533&amp;forceview=1">课程导读</option>
+                    <option value="/mod/page/view.php?id=722534&amp;forceview=1">教学实施方案</option>
+                    <option value="/mod/page/view.php?id=722536&amp;forceview=1">考核方案</option>
+                    <option value="/mod/page/view.php?id=722538&amp;forceview=1">学习指引</option>
+                    <option value="/mod/page/view.php?id=722540&amp;forceview=1">学习进度及学习活动时间分配表</option>
+                    <option value="/mod/forum/view.php?id=722542&amp;forceview=1">新闻讨论区</option>
+                    <option value="/mod/chat/view.php?id=722544&amp;forceview=1">实时聊天室</option>
+                    <option value="/mod/page/view.php?id=722546&amp;forceview=1">第一单元   单元简介</option>
+                    <option value="/mod/page/view.php?id=722548&amp;forceview=1">第一单元 学习目标</option>
+                    <option value="/mod/page/view.php?id=722550&amp;forceview=1">第一单元 学习指引</option>
+                    <option value="/mod/page/view.php?id=722552&amp;forceview=1">第一单元 知识点导读</option>
+                    <option value="/mod/page/view.php?id=722553&amp;forceview=1">第一单元 拓展学习</option>
+                    <option value="/mod/kalvidres/view.php?id=722556&amp;forceview=1">1.1为什么是“觉醒年代”</option>
+                    <option value="/mod/kalvidres/view.php?id=722557&amp;forceview=1"> 1.2李开复给大学生的第四封信</option>
+                    <option value="/mod/kalvidres/view.php?id=722558&amp;forceview=1"> 1.3怎样成为一个大写的“人”</option>
+                    <option value="/mod/kalvidres/view.php?id=722560&amp;forceview=1">1.4我是谁</option>
+                    <option value="/mod/kalvidres/view.php?id=722562&amp;forceview=1">1.5空降玫瑰与她的人生追求</option>
+                    <option value="/mod/kalvidres/view.php?id=722563&amp;forceview=1">1.6态度决定命运</option>
+                    <option value="/mod/kalvidres/view.php?id=722565&amp;forceview=1">1.7谈谈马诺的人生观</option>
+                    <option value="/mod/forum/view.php?id=722566&amp;forceview=1">第一次非实时讨论区</option>
+                    <option value="/mod/quiz/view.php?id=722568&amp;forceview=1">第一单元测验</option>
+                    <option value="/mod/page/view.php?id=722571&amp;forceview=1">第二单元 单元简介</option>
+                    <option value="/mod/page/view.php?id=722573&amp;forceview=1">第二单元 学习目标</option>
+                    <option value="/mod/page/view.php?id=722574&amp;forceview=1">第二单元 学习指引</option>
+                    <option value="/mod/page/view.php?id=722575&amp;forceview=1">第二单元 知识点导读</option>
+                    <option value="/mod/page/view.php?id=722576&amp;forceview=1">第二单元 拓展学习</option>
+                    <option value="/mod/kalvidres/view.php?id=722578&amp;forceview=1">2.1心有所信 方能行远</option>
+                    <option value="/mod/kalvidres/view.php?id=722579&amp;forceview=1">2.2确立理想信念时应注意什么</option>
+                    <option value="/mod/kalvidres/view.php?id=722580&amp;forceview=1">2.3为什么要信仰马克思主义</option>
+                    <option value="/mod/kalvidres/view.php?id=722581&amp;forceview=1">2.4袁隆平先生的人生理想</option>
+                    <option value="/mod/kalvidres/view.php?id=722583&amp;forceview=1">2.5共产主义在路上</option>
+                    <option value="/mod/forum/view.php?id=722584&amp;forceview=1">第二次非实时讨论区</option>
+                    <option value="/mod/quiz/view.php?id=722585&amp;forceview=1">第二单元测验</option>
+                    <option value="/mod/page/view.php?id=722588&amp;forceview=1">第三单元 单元简介</option>
+                    <option value="/mod/page/view.php?id=722590&amp;forceview=1">第三单元 学习目标</option>
+                    <option value="/mod/page/view.php?id=722592&amp;forceview=1">第三单元 学习指引</option>
+                    <option value="/mod/page/view.php?id=722594&amp;forceview=1">第三单元 知识点导读</option>
+                    <option value="/mod/page/view.php?id=722596&amp;forceview=1">第三单元 拓展学习</option>
+                    <option value="/mod/kalvidres/view.php?id=722598&amp;forceview=1">3.2爱国大而空吗（上）</option>
+                    <option value="/mod/kalvidres/view.php?id=722600&amp;forceview=1">3.3爱国大而空吗（下）</option>
+                    <option value="/mod/kalvidres/view.php?id=722602&amp;forceview=1">3.4黄欧的莞香人生</option>
+                    <option value="/mod/kalvidres/view.php?id=722604&amp;forceview=1">3.5改革开放 中华有为</option>
+                    <option value="/mod/quiz/view.php?id=722606&amp;forceview=1">第三单元测验</option>
+                    <option value="/mod/page/view.php?id=722613&amp;forceview=1">第四单元 单元简介</option>
+                    <option value="/mod/page/view.php?id=722614&amp;forceview=1">第四单元 学习目标</option>
+                    <option value="/mod/page/view.php?id=722616&amp;forceview=1">第四单元 学习指引</option>
+                    <option value="/mod/page/view.php?id=722618&amp;forceview=1">第四单元 知识点导读</option>
+                    <option value="/mod/page/view.php?id=722620&amp;forceview=1">第四单元 拓展学习</option>
+                    <option value="/mod/kalvidres/view.php?id=722622&amp;forceview=1"> 4.1用社会主义核心价值观凝魂聚力</option>
+                    <option value="/mod/kalvidres/view.php?id=722623&amp;forceview=1">4.2江山就是人民 人民就是江山</option>
+                    <option value="/mod/kalvidres/view.php?id=722625&amp;forceview=1">4.3戴口罩，自由吗？</option>
+                    <option value="/mod/kalvidres/view.php?id=722626&amp;forceview=1">4.4做社会主义核心价值观的积极践行者</option>
+                    <option value="/mod/quiz/view.php?id=722627&amp;forceview=1">第四单元测验</option>
+                    <option value="/mod/page/view.php?id=722630&amp;forceview=1">第五单元 单元简介</option>
+                    <option value="/mod/page/view.php?id=722632&amp;forceview=1">第五单元 学习目标</option>
+                    <option value="/mod/page/view.php?id=722634&amp;forceview=1">第五单元 学习指引</option>
+                    <option value="/mod/page/view.php?id=722635&amp;forceview=1">第五单元 知识点导读</option>
+                    <option value="/mod/page/view.php?id=722636&amp;forceview=1">第五单元 拓展学习</option>
+                    <option value="/mod/kalvidres/view.php?id=722637&amp;forceview=1">5.1工作是为了什么？</option>
+                    <option value="/mod/kalvidres/view.php?id=722639&amp;forceview=1">5.2为人民服务，难吗？</option>
+                    <option value="/mod/kalvidres/view.php?id=722640&amp;forceview=1">5.3网络不是德外之地</option>
+                    <option value="/mod/kalvidres/view.php?id=722641&amp;forceview=1">5.4言传身教 传承家风</option>
+                    <option value="/mod/kalvidres/view.php?id=722642&amp;forceview=1">5.5谈谈情，说说爱（上）</option>
+                    <option value="/mod/kalvidres/view.php?id=722644&amp;forceview=1">5.6谈谈情，说说爱（下）</option>
+                    <option value="/mod/kalvidres/view.php?id=722645&amp;forceview=1">5.7慎独自律 修炼品德</option>
+                    <option value="/mod/kalvidres/view.php?id=722646&amp;forceview=1">5.8我选择 我志愿</option>
+                    <option value="/mod/quiz/view.php?id=722648&amp;forceview=1">第五单元测验</option>
+                    <option value="/mod/page/view.php?id=722650&amp;forceview=1">第六单元 单元简介</option>
+                    <option value="/mod/page/view.php?id=722652&amp;forceview=1">第六单元 学习目标</option>
+                    <option value="/mod/page/view.php?id=722653&amp;forceview=1">第六单元 学习指引</option>
+                    <option value="/mod/page/view.php?id=722654&amp;forceview=1">第六单元 知识点导读</option>
+                    <option value="/mod/page/view.php?id=722655&amp;forceview=1">第六单元 拓展学习</option>
+                    <option value="/mod/kalvidres/view.php?id=722657&amp;forceview=1">6.1习近平法治思想知多少（上）</option>
+                    <option value="/mod/kalvidres/view.php?id=722659&amp;forceview=1">6.2习近平法治思想知多少（下）</option>
+                    <option value="/mod/kalvidres/view.php?id=722661&amp;forceview=1">6.3党大还是法大</option>
+                    <option value="/mod/kalvidres/view.php?id=722663&amp;forceview=1">6.4法安天下 德润人心</option>
+                    <option value="/mod/kalvidres/view.php?id=722665&amp;forceview=1">6.5为什么我国的国家工作人员要向宪法宣誓？</option>
+                    <option value="/mod/kalvidres/view.php?id=722667&amp;forceview=1">6.6法律面前没有顶流</option>
+                    <option value="/mod/kalvidres/view.php?id=722669&amp;forceview=1">6.7颜值即正义？</option>
+                    <option value="/mod/kalvidres/view.php?id=722671&amp;forceview=1">6.8放弃权利就可以免除义务吗？</option>
+                    <option value="/mod/kalvidres/view.php?id=722673&amp;forceview=1">6.9一发千金谈法治素养提升提升</option>
+                    <option value="/mod/quiz/view.php?id=722676&amp;forceview=1">第六单元测验</option>
+                    <option value="/mod/quiz/view.php?id=722680&amp;forceview=1">第一单元形成性考核</option>
+                    <option value="/mod/quiz/view.php?id=722683&amp;forceview=1">第二单元形成性考核</option>
+                    <option value="/mod/quiz/view.php?id=722684&amp;forceview=1">第三单元形成性考核</option>
+                    <option value="/mod/quiz/view.php?id=722687&amp;forceview=1">第四单元形成性考核</option>
+                    <option value="/mod/quiz/view.php?id=722689&amp;forceview=1">第五单元形成性考核</option>
+                    <option value="/mod/quiz/view.php?id=722691&amp;forceview=1">第六单元形成性考核</option>
+                    <option value="/mod/kalvidres/view.php?id=722692&amp;forceview=1">一分钟了解“中国特色社会主义新时代”</option>
+                    <option value="/mod/kalvidres/view.php?id=722694&amp;forceview=1">一分钟了解“中国梦</option>
+                    <option value="/mod/kalvidres/view.php?id=722695&amp;forceview=1">一分钟了解“人类命运共同体</option>
+                    <option value="/mod/kalvidres/view.php?id=722696&amp;forceview=1">一分钟了解“一带一路”</option>
+                    <option value="/mod/kalvidres/view.php?id=722697&amp;forceview=1">一分钟了解“习近平中国特色社会主义思想”</option>
+                    <option value="/mod/kalvidres/view.php?id=722699&amp;forceview=1">一分钟了解“伟大建党精神”</option>
+                    <option value="/mod/kalvidres/view.php?id=722700&amp;forceview=1">一分钟了解“四个自信”</option>
+                    <option value="/mod/kalvidres/view.php?id=722701&amp;forceview=1">一分钟了解“粤港澳大湾区”</option>
+                    <option value="/mod/kalvidres/view.php?id=722703&amp;forceview=1">一分钟了解“西方普世价值的真面目”</option>
+                    <option value="/mod/kalvidres/view.php?id=722704&amp;forceview=1">一分钟了解“中华传统美德”</option>
+                    <option value="/mod/kalvidres/view.php?id=722705&amp;forceview=1">一分钟了解“中国共产党的初心使命”</option>
+                    <option value="/mod/kalvidres/view.php?id=722706&amp;forceview=1">一分钟了解“中华人民共和国传染病防治法”</option>
+                    <option value="/mod/kalvidres/view.php?id=722707&amp;forceview=1">一分钟了解“国家安全”</option>
+                    <option value="/mod/kalvidres/view.php?id=722709&amp;forceview=1">一分钟了解“国家安全法”</option>
+                    <option value="/mod/resource/view.php?id=722711&amp;forceview=1">阅读资料推荐</option>
+        
+                    <option value="" selected="">跳至...</option>
+                    <option value="/mod/forum/view.php?id=737231&amp;forceview=1">新闻讨论区</option>
+                    <option value="/mod/page/view.php?id=736912&amp;forceview=1">主讲教师</option>
+                    <option value="/mod/page/view.php?id=736913&amp;forceview=1">教学团队</option>
+                    <option value="/mod/page/view.php?id=736914&amp;forceview=1">【广开学生】关于广东开放大学2023年春学期“形势与政策”课教学安排的说明</option>
+                    <option value="/mod/page/view.php?id=736916&amp;forceview=1">广东开放大学“形势与政策”课教学实施方案（2023年修订）</option>
+                    <option value="/mod/page/view.php?id=736917&amp;forceview=1">教育部关于加强新时代高校“形势与政策”课建设的若干意见</option>
+                    <option value="/mod/page/view.php?id=736918&amp;forceview=1">教学资源使用说明</option>
+                    <option value="/mod/kalvidres/view.php?id=779189&amp;forceview=1">陈培永-中国共产党与中国式现代化：历史图景与前景展望</option>
+                    <option value="/mod/kalvidres/view.php?id=779191&amp;forceview=1">向晓梅：深入学习贯彻党的二十大精神 推动广东高质量发展</option>
+                    <option value="/mod/resource/view.php?id=737011&amp;forceview=1">第一讲-立志复兴伟业  踔厉奋发前行</option>
+                    <option value="/mod/resource/view.php?id=737014&amp;forceview=1">第一讲-立志复兴伟业  踔厉奋发前行（讲稿）</option>
+                    <option value="/mod/resource/view.php?id=737017&amp;forceview=1">第二讲-走好中国式现代化之路</option>
+                    <option value="/mod/resource/view.php?id=737019&amp;forceview=1">第二讲-走好中国式现代化之路（讲稿）</option>
+                    <option value="/mod/resource/view.php?id=737021&amp;forceview=1">第三讲-开创高质量发展新局面</option>
+                    <option value="/mod/resource/view.php?id=737023&amp;forceview=1">第三讲-开创高质量发展新局面（讲稿）</option>
+                    <option value="/mod/resource/view.php?id=737025&amp;forceview=1">第五讲-在新时代新征程上推进祖国统一</option>
+                    <option value="/mod/resource/view.php?id=737027&amp;forceview=1">第五讲-在新时代新征程上推进祖国统一（讲稿）</option>
+                    <option value="/mod/chat/view.php?id=736930&amp;forceview=1">第一次实时讨论：课程导读【4月2日（星期日）晚上8:00-9：00】</option>
+                    <option value="/mod/chat/view.php?id=736931&amp;forceview=1">第二次实时讨论：“两会”大家谈【5月10日晚上8:00-9：00】</option>
+                    <option value="/mod/forum/view.php?id=788605&amp;forceview=1">学生答疑</option>
+        

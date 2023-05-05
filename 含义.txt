@@ -1,0 +1,14 @@
+cat source_url.txt | grep "\\/mod\\/" | grep -Ev "quiz/|url/|chat/|assign/|forum" | awk -F "=\"" '{print $2}' | awk -F "\"" '{print $1}'  | sort -u >mod.txt
+
+
+resource  PDF文档,需要下载
+book　　教学列表
+folder	引论
+kalvidres  视频
+page	简介
+
+forum	讨论区
+chat	聊天室
+quiz　　作业忽略
+url  讨论忽略
+assign　平时表现忽略
